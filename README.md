@@ -1,6 +1,37 @@
 # Porfolio - Krzysztof Zygmunt (Chris)
 
-I'm moving towards the backend, here are the last two projects under development. 
+I'm moving towards the backend, here are the last two projects under development and and some smaller but interesting tasks. 
+
+### Technologies I learn
+
+<img src="assets/img/html5.svg" width="40" height="40" alt="html"/>
+<img src="assets/img/css3.svg" width="40" height="40" alt="css"/>
+<img src="assets/img/js.svg" width="40" height="40" alt="javascript"/>
+<img src="assets/img/firebase.svg" width="40" height="40" alt="firebase"/>
+<img src="assets/img/md.svg" width="40" height="40" alt="mark down"/>
+<img src="assets/img/node.svg" width="40" height="40" alt="node"/>
+<img src="assets/img/webpack.svg" width="40" height="40" alt="webpack"/>
+<img src="assets/img/eslint.svg" width="40" height="40" alt="eslint"/>
+
+### The tools I use
+
+<img src="assets/img/phpstorm.svg" width="40" height="40" alt="phpstorm"/>
+<img src="assets/img/git.svg" width="40" height="40" alt="git"/>
+<img src="assets/img/github.svg" width="40" height="40" alt="github"/>
+
+## About me
+
+Hei. Jej heter Krzysztof. Jeg er en person som **liker utfordringer**. Jeg har akkurat startet mitt eventyr i programmerings bransjen. Jeg studerer intensivt og eksperimenterer med **prosjektene mine**.
+
+Før det jobbet jeg i byggebransjen, noe som ga meg mye glede. Jeg bestemte meg imidlertid for å bytte yrke og har lært programmering i tre år. Det er på tide å bruke det jeg har lært, og jeg gleder meg til **å begynne å programmere** for et interessant selskap.
+
+Jeg vil beskrive meg selv som **fleksibel**, **innovativ**, **nøyaktig** og villig til **å utvikle meg**. Jeg ser frem til en jobb der jeg kan bruke mine egenskaper for å utvikle firmaet jeg jobber i. Jeg har store ambisjoner og søker en spennende og meningsfull hverdag. Jeg **gir aldri opp** og jeg elsker å skape nye ting.
+
+For meg **er problemer bare en utfordring** som jeg ser frem til å gå løs på.
+
+[Download my CV](assets/cv-soknad-krzysztof-zygmunt-software-developer.pdf)
+
+## Projects
 
 ### [sample-project-webpack-firebase](https://github.com/chriskodehub/sample-project-webpack-firebase)
 
@@ -8,7 +39,7 @@ A development platform for Javascript-based applications, configured from scratc
 
 ### [kodehode-course-plan](https://github.com/chriskodehub/kodehode-course-plan)
 
-My original project for Kodehode. I want to create an application that helps plan classes on the course. The project is in the intensive development phase. I will prepare a prototype and application development plan by April 13, 2022.
+My original project for Kodehode. I want to create an application that helps plan classes on the course. The project is in the intensive development phase. I will prepare a prototype and application development plan by **April 13, 2022**.
 
 ### Selected projects from Kodehode classes
 
