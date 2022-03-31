@@ -2,11 +2,13 @@
 
 I'm moving towards the backend, here are the last two projects under development and some smaller but interesting tasks. 
 
+[GitHub repository](https://github.com/chriskodehub/porfolio)
+
 ### Technologies I learn
 
 <img src="assets/img/html5.svg" width="40" height="40" alt="html"/><img src="assets/img/css3.svg" width="40" height="40" alt="css"/> <img src="assets/img/js.svg" width="40" height="40" alt="javascript"/> <img src="assets/img/firebase.svg" width="40" height="40" alt="firebase"/> <img src="assets/img/md.svg" width="40" height="40" alt="mark down"/> <img src="assets/img/node.svg" width="40" height="40" alt="node"/> <img src="assets/img/webpack.svg" width="40" height="40" alt="webpack"/> <img src="assets/img/eslint.svg" width="40" height="40" alt="eslint"/>
 
-### The tools I use
+### Tools I use
 
 <img src="assets/img/phpstorm.svg" width="40" height="40" alt="phpstorm"/> <img src="assets/img/git.svg" width="40" height="40" alt="git"/> <img src="assets/img/github.svg" width="40" height="40" alt="github"/>
 
