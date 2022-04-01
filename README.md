@@ -36,7 +36,7 @@ My original project for Kodehode. I want to create an application that helps pla
 
 ### Selected projects from Kodehode classes
 
-1. [HTML form with. Parsing an html form with JavaScript and FormData()](https://github.com/chriskodehub/KH-12_html-forms) | [Live demo](https://chriskodehub.github.io/KH-11_javascript-methodically-looping/)
+1. [HTML form with. Parsing an html form with JavaScript and FormData()](https://github.com/chriskodehub/KH-12_html-forms) | [Live demo](https://chriskodehub.github.io/KH-12_html-forms/)
 2. [Basic Website With HTML & CSS](https://github.com/chriskodehub/KH-10_basic-website-with-html-css) | [Live demo](https://chriskodehub.github.io/KH-10_basic-website-with-html-css/)
 3. [Turn-based game](https://github.com/chriskodehub/KH-11_javascript-methodically-looping) | [Live demo](https://chriskodehub.github.io/KH-11_javascript-methodically-looping/game.html)
 4. [Play with html input](https://github.com/chriskodehub/KH-5_buttons_del_2) | [Live demo](https://chriskodehub.github.io/KH-5_buttons_del_2/)
