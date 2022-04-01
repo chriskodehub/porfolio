@@ -10,7 +10,7 @@ I'm moving towards the backend, here are the last two projects under development
 
 ### Tools I use
 
-<img src="assets/img/phpstorm.svg" width="40" height="40" alt="phpstorm"/> <img src="assets/img/git.svg" width="40" height="40" alt="git"/> <img src="assets/img/github.svg" width="40" height="40" alt="github"/>
+<img src="assets/img/phpstorm.svg" width="40" height="40" alt="phpstorm"/> <img src="assets/img/vsc.svg" width="40" height="40" alt="vsc"/> <img src="assets/img/git.svg" width="40" height="40" alt="git"/> <img src="assets/img/github.svg" width="40" height="40" alt="github"/>
 
 ## About me
 
@@ -28,7 +28,7 @@ For meg **er problemer bare en utfordring** som jeg ser frem til å gå løs på
 
 ### [sample-project-webpack-firebase](https://github.com/chriskodehub/sample-project-webpack-firebase)
 
-A development platform for Javascript-based applications, configured from scratch. Completed STAGE 1. STAGE 2 Completed. STAGE 3 being planned.
+A development platform for Javascript-based applications, configured from scratch. Completed STAGE 1. STAGE 2 almost complete. STAGE 3 being planned.
 
 ### [kodehode-course-plan](https://github.com/chriskodehub/kodehode-course-plan)
 
@@ -36,13 +36,13 @@ My original project for Kodehode. I want to create an application that helps pla
 
 ### Selected projects from Kodehode classes
 
-1. [HTML form with. Parsing an html form with JavaScript and FormData()](https://github.com/chriskodehub/KH-12_html-forms)
-2. [Basic Website With HTML & CSS](https://github.com/chriskodehub/KH-10_basic-website-with-html-css)
-3. [Turn-based game](https://github.com/chriskodehub/KH-11_javascript-methodically-looping)
-4. [Play with html input](https://github.com/chriskodehub/KH-5_buttons_del_2)
-5. [QR-code component](https://github.com/chriskodehub/FEM-1_QR-code-component)
-6. [Play with arrays and console](https://github.com/chriskodehub/KH-8_array-i-javascript)
-7. [Play with html table](https://github.com/chriskodehub/KH-9_html-tables)
+1. [HTML form with. Parsing an html form with JavaScript and FormData()](https://github.com/chriskodehub/KH-12_html-forms) | [Live demo](https://chriskodehub.github.io/KH-11_javascript-methodically-looping/)
+2. [Basic Website With HTML & CSS](https://github.com/chriskodehub/KH-10_basic-website-with-html-css) | [Live demo](https://chriskodehub.github.io/KH-10_basic-website-with-html-css/)
+3. [Turn-based game](https://github.com/chriskodehub/KH-11_javascript-methodically-looping) | [Live demo](https://chriskodehub.github.io/KH-11_javascript-methodically-looping/game.html)
+4. [Play with html input](https://github.com/chriskodehub/KH-5_buttons_del_2) | [Live demo](https://chriskodehub.github.io/KH-5_buttons_del_2/)
+5. [QR-code component](https://github.com/chriskodehub/FEM-1_QR-code-component) | [Live demo](https://chriskodehub.github.io/FEM-1_QR-code-component/)
+6. [Play with arrays and console](https://github.com/chriskodehub/KH-8_array-i-javascript) | [Live demo](https://chriskodehub.github.io/KH-8_array-i-javascript/)
+7. [Play with html table](https://github.com/chriskodehub/KH-9_html-tables) | [Live demo](https://chriskodehub.github.io/KH-9_html-tables/)
 
 If you want to contact me, the fastest way to do it is on GitHub 😁  
 [Send me Issue](https://github.com/chriskodehub/porfolio/issues)
