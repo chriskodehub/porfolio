@@ -4,11 +4,11 @@ I'm moving towards the backend, here are the last two projects under development
 
 [GitHub repository](https://github.com/chriskodehub/porfolio)
 
-### Technologies I learn
+### Technologies
 
 <img src="assets/img/html5.svg" width="40" height="40" alt="html"/><img src="assets/img/css3.svg" width="40" height="40" alt="css"/> <img src="assets/img/js.svg" width="40" height="40" alt="javascript"/> <img src="assets/img/firebase.svg" width="40" height="40" alt="firebase"/> <img src="assets/img/md.svg" width="40" height="40" alt="mark down"/> <img src="assets/img/node.svg" width="40" height="40" alt="node"/> <img src="assets/img/webpack.svg" width="40" height="40" alt="webpack"/> <img src="assets/img/eslint.svg" width="40" height="40" alt="eslint"/>
 
-### Tools I use
+### Tools
 
 <img src="assets/img/phpstorm.svg" width="40" height="40" alt="phpstorm"/> <img src="assets/img/vsc.svg" width="40" height="40" alt="vsc"/> <img src="assets/img/git.svg" width="40" height="40" alt="git"/> <img src="assets/img/github.svg" width="40" height="40" alt="github"/>
 
@@ -22,7 +22,7 @@ Jeg vil beskrive meg selv som **fleksibel**, **innovativ**, **nøyaktig** og vil
 
 For meg **er problemer bare en utfordring** som jeg ser frem til å gå løs på.
 
-[Download my CV](assets/cv-soknad-krzysztof-zygmunt-software-developer.pdf)
+[Download my CV](assets/cv-krzysztof-zygmunt.pdf)
 
 ## Projects
 
