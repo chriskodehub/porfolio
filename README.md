@@ -8,6 +8,6 @@ Hei. Jej heter Krzysztof. Jeg er en person som **liker utfordringer**. Jeg har a
 
 ## About me
 
-Hello. My name is Krzysztof. I am a person who likes challenges. I have just started my adventure in the programming industry. I study intensively and experiment with my projects. I invite you to [my portfolio](https://chriskodehub.github.io/portfolio/).  
+Hello. My name is Krzysztof. I am a person who **likes challenges**. I have just started my adventure in the programming industry. I study intensively and experiment with **my projects**. I invite you to [my portfolio](https://chriskodehub.github.io/portfolio/).  
 
 
