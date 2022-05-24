@@ -1,6 +1,6 @@
 # Porfolio - Krzysztof (Chris) Zygmunt
 
-[<img src="assets/img/portfolio.png">](https://github.com/chriskodehub/portfolio)
+[<img src="assets/img/portfolio.png">](https://chriskodehub.github.io/portfolio/)
 
 ## Om meg
 
