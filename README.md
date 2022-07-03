@@ -1,5 +1,7 @@
 # Porfolio - Krzysztof (Chris) Zygmunt
 
+**Status:** 🛠️ The application is in active development 🛠️
+
 [<img src="assets/img/portfolio.png">](https://chriskodehub.github.io/portfolio/)
 
 ## Om meg
